@@ -1,8 +1,8 @@
 streamlit==1.27.2
 rembg==2.0.50
 Pillow==10.0.1
-numpy==1.25.2
-onnxruntime-cpu==1.15.1
+numpy==1.24.3
+onnxruntime==1.15.1
 opencv-python-headless==4.8.0.76
 tqdm==4.66.1
 scipy==1.11.2
