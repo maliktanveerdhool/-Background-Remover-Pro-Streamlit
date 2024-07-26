@@ -1,8 +1,5 @@
-# -Background-Remover-Pro-Streamlit
-https://background-remover-pro-app-m7e26rox25r6qsnpd4hv9c.streamlit.app/
-
 Background Remover Pro App
-Description
+https://background-remover-pro-app-m7e26rox25r6qsnpd4hv9c.streamlit.app/
 A web-based application built with Streamlit that allows users to upload images and remove their backgrounds using the rembg library. The app offers advanced options like alpha matting for finer control over the background removal process.
 Tools and Technologies Used
 Streamlit (version 1.27.2): A Python library for building web applications.
